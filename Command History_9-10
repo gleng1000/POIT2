@@ -1,0 +1,46 @@
+   96  ls
+   97  cp ~/Music/song1.mp3 ~/Music/song2.mp3 ~/Pictures/snap1.jpg ~/Pictures/snap2.jpg ~/Videos/film1.avi .
+   98  ls
+   99  cd Friends
+  100  cp ~/Music/song1.mp3 ~/Music/song2.mp3 ~/Pictures/snap1.jpg ~/Pictures/snap2.jpg ~/Videos/film1.avi .
+  101  ls
+  102  cd ~
+  103  ls
+  104  man rm
+  105  cd Friends
+  106  ls -l
+  107  cp ~/Videos/film2.avi .
+  108  ls -l
+  109  cd ../Family/
+  110  cp ~/Music/song4.mp3 ~/Music/song3.mp3 ~/Pictures/snap3.jpg ~/Pictures/snap4.jpg ~/Videos/film3.avi ~/Videos/film4.avi .
+  111  cd ~
+  112  ls
+  113  cd ../Family/
+  114  cd /Family/
+  115  cd /Family
+  116  cd Family/
+  117  ls -l
+  118  cd ~
+  119  rmls
+  120  ls
+  121  rm film1.avi snap1.jpg snap2.jpg song1.mp3 song2.mp3
+  122  ls
+  123  rm snap1.jpg snap2.jpg song1.mp3 song2.mp3
+  124  ls
+  125  cd Work/
+  126  cp ~/Music/song5.mp3 ~/Music/song6.mp3 ~/Pictures/snap5.jpg ~/Pictures/snap6.jpg ~/Videos/film5.avi ~/Videos/film6.avi .
+  127  ls -l
+  128  cd
+  129  rmdir Friends
+  130  rm -r Family/ Friends/
+  131  ls -l
+  132  rm -r Family/ Friends/
+  133  ls
+  134  cd Work/
+  135  rm song5.mp3 song6.mp3 snap5.jpg snap6.jpg film5.avi film6.avi
+  136  y
+  137  cd
+  138  rm -r Family/ Friends/
+  139  ls -l
+  140  cat ~/.bash_history
+  141  history
